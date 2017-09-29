@@ -1,0 +1,16 @@
+body{
+    display: inline-block;
+}
+#form{
+    float: left;
+    width: 200px;
+}
+#inputArea{
+    line-height: 25px;
+}
+table{
+    float: left;
+}
+.button{
+    margin-top: 25px;
+}
